@@ -1,0 +1,161 @@
+{
+  "OFFSET" :{ "x" :0.000000, "y" : 0.000000, "z" : 0.000000},
+  "CHANNELS" : { Xposition , }
+  "",
+  "Yposition"
+
+}
+     Zposition Zrotation Xrotation Yrotation
+  JOINT RightHip
+{
+  OFFSET -0.098679 0.000000 0.000000
+  CHANNELS 3 Zrotation Xrotation Yrotation
+  JOINT RightKnee
+{
+  OFFSET 0.000000 -0.413816 0.000000
+  CHANNELS 3 Zrotation Xrotation Yrotation
+  JOINT RightAnkle
+{
+  OFFSET 0.000000 -0.452914 0.000000
+  CHANNELS 3 Zrotation Xrotation Yrotation
+  JOINT RightToe
+{
+  OFFSET 0.000000 -0.042572 0.122063
+  CHANNELS 3 Zrotation Xrotation Yrotation
+  JOINT RightToeEnd
+{
+  OFFSET 0.000000 0.004481 0.054939
+  CHANNELS 3 Zrotation Xrotation Yrotation
+  End Site
+{
+  OFFSET 0.000000 0.004065 0.049835
+}
+}
+}
+}
+}
+}
+JOINT LeftHip
+{
+OFFSET 0.098679 0.000000 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT LeftKnee
+{
+OFFSET 0.000000 -0.413816 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT LeftAnkle
+{
+OFFSET 0.000000 -0.452914 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT LeftToe
+{
+OFFSET 0.000000 -0.042572 0.122063
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT LeftToeEnd
+{
+OFFSET 0.000000 0.004481 0.054939
+CHANNELS 3 Zrotation Xrotation Yrotation
+End Site
+{
+OFFSET 0.000000 0.004065 0.049835
+}
+}
+}
+}
+}
+}
+JOINT Chest
+{
+OFFSET 0.000000 0.180059 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT Chest2
+{
+OFFSET 0.000000 0.217572 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT Chest3
+{
+OFFSET 0.000000 0.048096 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+
+
+JOINT LeftCollar
+{
+OFFSET 0.020000 0.048096 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT LeftShoulder
+{
+OFFSET 0.163469 0.000000 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT LeftElbow
+{
+OFFSET 0.000000 -0.285389 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT LeftWrist
+{
+OFFSET 0.000000 -0.275440 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT LeftFinger0
+{
+OFFSET 0.000000 -0.091899 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+End Site
+{
+OFFSET 0.000000 -0.050000 0.000000
+}
+}
+}
+}
+}
+}
+JOINT RightCollar
+{
+OFFSET -0.020000 0.048096 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT RightShoulder
+{
+OFFSET -0.163469 0.000000 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT RightElbow
+{
+OFFSET 0.000000 -0.285389 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT RightWrist
+{
+OFFSET 0.000000 -0.275440 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT RightFinger0
+{
+OFFSET 0.000000 -0.091899 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+End Site
+{
+OFFSET 0.000000 -0.050000 0.000000
+}
+}
+}
+}
+}
+}
+JOINT Neck
+{
+OFFSET 0.000000 0.048096 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT Head
+{
+OFFSET 0.000000 0.162951 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+JOINT HeadTip
+{
+OFFSET 0.000000 0.100000 0.000000
+CHANNELS 3 Zrotation Xrotation Yrotation
+End Site
+{
+OFFSET 0.000000 0.050000 0.000000
+}
+}
+}
+}
+}
+}
+}
+}

@@ -1,0 +1,27 @@
+   1    2 	Hips 	RightHip    1    1   0,0986790000000000
+   2    3 	RightHip 	RightKnee    1    1   0,4138160000000001
+   3    4 	RightKnee 	RightAnkle    1    1   0,4529140000000001
+   4    5 	RightAnkle 	RightToe    1    1   0,1292739384137422
+   5    6 	RightToe 	RightToeEnd    1    1   0,0551214394042826
+   1    7 	Hips 	LeftHip    1    1   0,0986790000000000
+   7    8 	LeftHip 	LeftKnee    1    1   0,4138160000000000
+   8    9 	LeftKnee 	LeftAnkle    1    1   0,4529140000000001
+   9   10 	LeftAnkle 	LeftToe    1    1   0,1292739384137422
+  10   11 	LeftToe 	LeftToeEnd    1    1   0,0551214394042826
+   1   12 	Hips 	Chest    1    1   0,1800590000000000
+  12   13 	Chest 	Chest2    1    1   0,2175720000000001
+  13   14 	Chest2 	Chest3    1    1   0,0480960000000000
+  14   15 	Chest3 	LeftCollar    1    1   0,0520886284710972
+  15   16 	LeftCollar 	LeftShoulder    1    1   0,1634690000000000
+  16   17 	LeftShoulder 	LeftElbow    1    1   0,2853890000000000
+  17   18 	LeftElbow 	LeftWrist    1    1   0,2754400000000000
+  18   19 	LeftWrist 	LeftFinger0    1    1   0,0918990000000001
+  14   20 	Chest3 	RightCollar    1    1   0,0520886284710972
+  20   21 	RightCollar 	RightShoulder    1    1   0,1634690000000000
+  21   22 	RightShoulder 	RightElbow    1    1   0,2853890000000000
+  22   23 	RightElbow 	RightWrist    1    1   0,2754400000000001
+  23   24 	RightWrist 	RightFinger0    1    1   0,0918990000000000
+  14   25 	Chest3 	Neck    1    1   0,0480960000000000
+  25   26 	Neck 	Head    1    1   0,1629510000000000
+  26   27 	Head 	HeadTip    1    1   0,1000000000000001
+
